@@ -16,8 +16,8 @@
     <connect_string>ac.megaduck.com:9050</connect_string>
     <enable_login>true</enable_login>
     <custom_credentials>true</custom_credentials>
-    <default_username>enter-your-username</default_username>
-    <default_password>enter-your-password</default_password>
+    <default_username>username</default_username>
+    <default_password>password</default_password>
     <allow_dual_log>true</allow_dual_log>
   </ServerItem>
   <ServerItem>
