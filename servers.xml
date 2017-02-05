@@ -22,7 +22,7 @@
   </ServerItem>
   <ServerItem>
     <name>Yew's Plugins Server</name>
-    <description>Yew's Plugins Server -- New and Improved!</description>
+    <description>Yew's Plugins Server -- New and Improved!!</description>
     <connect_string>ac.yewsplugins.com:9999</connect_string>
     <enable_login>true</enable_login>
     <custom_credentials>true</custom_credentials>
