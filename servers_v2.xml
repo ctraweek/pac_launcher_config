@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfServerItem xmlns:PhatAC="http://www.phatac.com/serverlist/v2">
+  <ServerItem>
+    <name>Pea's Test Server</name>
+    <description>Pea's Server, the latest and greatest! Your head will explode.</description>
+    <connect_string>75.63.120.231:9050</connect_string>
+    <enable_login>true</enable_login>
+    <custom_credentials>false</custom_credentials>
+    <default_rodat>true</default_rodat>
+    <default_username>username</default_username>
+    <default_password>password</default_password>
+    <allow_dual_log>false</allow_dual_log>
+  </ServerItem>
+  <ServerItem>
+    <name>Megaduck AC</name>
+    <description>cmoski's Server is about command testing and stability!</description>
+    <connect_string>ac.megaduck.com:9050</connect_string>
+    <enable_login>true</enable_login>
+    <custom_credentials>true</custom_credentials>
+    <default_rodat>false</default_rodat>
+    <default_username>enter-your-username</default_username>
+    <default_password>enter-your-password</default_password>
+    <allow_dual_log>true</allow_dual_log>
+  </ServerItem>
+  <ServerItem>
+    <name>Yew's Plugins Server</name>
+    <description>Yew's Plugins Server</description>
+    <connect_string>ac.yewsplugins.com:9999</connect_string>
+    <enable_login>true</enable_login>
+    <custom_credentials>true</custom_credentials>
+    <default_rodat>true</default_rodat>
+    <default_username>username</default_username>
+    <default_password>password</default_password>
+    <allow_dual_log>true</allow_dual_log>
+  </ServerItem>
+</ArrayOfServerItem>
