@@ -20,7 +20,7 @@
     <default_rodat>true</default_rodat>
     <default_username>username</default_username>
     <default_password>password</default_password>
-    <allow_dual_log>false</allow_dual_log>
+    <allow_dual_log>true</allow_dual_log>
   </ServerItem>
   <ServerItem>
     <name>Yew's Plugins Server</name>
