@@ -23,8 +23,8 @@
     <allow_dual_log>true</allow_dual_log>
   </ServerItem>
   <ServerItem>
-    <name>ExploraDuck</name>
-    <description>Get ready to explore new features and run around wildly with ExploraDuck!</description>
+    <name>TestyDuck</name>
+    <description>cmoski's Test Server.. Not as exciting as Pea's..</description>
     <connect_string>ac.megaduck.com:9550</connect_string>
     <enable_login>true</enable_login>
     <custom_credentials>true</custom_credentials>
