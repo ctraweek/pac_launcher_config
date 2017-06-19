@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfServerItem xmlns:PhatAC="http://www.phatac.com/serverlist/v2">
   <ServerItem>
-    <name>Megaduck AC</name>
-    <description>cmoski's Server is about command testing and stability!</description>
+    <name>Megaduck!</name>
+    <description>Duck around on cmoski's server! (Mostly Traditional Rules..)</description>
     <connect_string>ac.megaduck.com:9050</connect_string>
     <enable_login>true</enable_login>
     <custom_credentials>true</custom_credentials>
@@ -23,8 +23,19 @@
     <allow_dual_log>true</allow_dual_log>
   </ServerItem>
   <ServerItem>
-    <name>Yew's Plugins Server</name>
-    <description>Yew's Plugins Server</description>
+    <name>ExploraDuck</name>
+    <description>Get ready to explore new features and run around wildly with ExploraDuck!</description>
+    <connect_string>ac.megaduck.com:9550</connect_string>
+    <enable_login>true</enable_login>
+    <custom_credentials>true</custom_credentials>
+    <default_rodat>false</default_rodat>
+    <default_username>username</default_username>
+    <default_password>password</default_password>
+    <allow_dual_log>true</allow_dual_log>
+  </ServerItem>
+  <ServerItem>
+    <name>YewThaw</name>
+    <description>Yew's Traditional Server</description>
     <connect_string>ac.yewsplugins.com:9999</connect_string>
     <enable_login>true</enable_login>
     <custom_credentials>true</custom_credentials>
@@ -34,12 +45,12 @@
     <allow_dual_log>true</allow_dual_log>
   </ServerItem>
   <ServerItem>
-    <name>cmoski's Dev Server</name>
-    <description>cmoski's Dev Server is less exciting then Peas. :'(</description>
-    <connect_string>ac.megaduck.com:9550</connect_string>
+    <name>YewTide</name>
+    <description>Yew's PK Server</description>
+    <connect_string>ac.yewsplugins.com:9050</connect_string>
     <enable_login>true</enable_login>
     <custom_credentials>true</custom_credentials>
-    <default_rodat>false</default_rodat>
+    <default_rodat>true</default_rodat>
     <default_username>username</default_username>
     <default_password>password</default_password>
     <allow_dual_log>true</allow_dual_log>
