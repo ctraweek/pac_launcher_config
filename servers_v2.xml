@@ -23,6 +23,17 @@
     <allow_dual_log>true</allow_dual_log>
   </ServerItem>
   <ServerItem>
+  <ServerItem>
+    <name>Ducktide</name>
+    <description>cmoski's PK Server.. Ducking PKs!</description>
+    <connect_string>ac.megaduck.com:9550</connect_string>
+    <enable_login>true</enable_login>
+    <custom_credentials>true</custom_credentials>
+    <default_rodat>false</default_rodat>
+    <default_username>username</default_username>
+    <default_password>password</default_password>
+    <allow_dual_log>true</allow_dual_log>
+  </ServerItem>
     <name>YewThaw</name>
     <description>Yew's Traditional Server</description>
     <connect_string>ac.yewsplugins.com:9999</connect_string>
