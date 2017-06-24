@@ -23,7 +23,6 @@
     <allow_dual_log>true</allow_dual_log>
   </ServerItem>
   <ServerItem>
-  <ServerItem>
     <name>Ducktide</name>
     <description>cmoski's PK Server.. Ducking PKs!</description>
     <connect_string>ac.megaduck.com:9550</connect_string>
