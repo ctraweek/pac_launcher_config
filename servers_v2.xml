@@ -23,8 +23,8 @@
     <allow_dual_log>true</allow_dual_log>
   </ServerItem>
   <ServerItem>
-    <name>Shadowduck</name>
-    <description>cmoski's Test Server.. Not as exciting as Pea's.. (Now with more ducking shadows!)</description>
+    <name>Ducktide</name>
+    <description>cmoski's PK Server.. Ducking PKs!</description>
     <connect_string>ac.megaduck.com:9550</connect_string>
     <enable_login>true</enable_login>
     <custom_credentials>true</custom_credentials>
