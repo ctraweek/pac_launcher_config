@@ -33,26 +33,5 @@
     <default_password>password</default_password>
     <allow_dual_log>true</allow_dual_log>
   </ServerItem>
-  <ServerItem>
-    <name>YewThaw</name>
-    <description>Yew's Traditional Server</description>
-    <connect_string>ac.yewsplugins.com:9999</connect_string>
-    <enable_login>true</enable_login>
-    <custom_credentials>true</custom_credentials>
-    <default_rodat>true</default_rodat>
-    <default_username>username</default_username>
-    <default_password>password</default_password>
-    <allow_dual_log>true</allow_dual_log>
-  </ServerItem>
-  <ServerItem>
-    <name>YewTide</name>
-    <description>Yew's PK Server</description>
-    <connect_string>ac.yewsplugins.com:9050</connect_string>
-    <enable_login>true</enable_login>
-    <custom_credentials>true</custom_credentials>
-    <default_rodat>true</default_rodat>
-    <default_username>username</default_username>
-    <default_password>password</default_password>
-    <allow_dual_log>true</allow_dual_log>
-  </ServerItem>
+
 </ArrayOfServerItem>
