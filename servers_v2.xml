@@ -12,17 +12,6 @@
     <allow_dual_log>true</allow_dual_log>
   </ServerItem>
   <ServerItem>
-    <name>Pea's Test Server</name>
-    <description>Pea's Server, the latest and greatest! Your head will explode.</description>
-    <connect_string>75.63.120.231:9050</connect_string>
-    <enable_login>true</enable_login>
-    <custom_credentials>false</custom_credentials>
-    <default_rodat>true</default_rodat>
-    <default_username>username</default_username>
-    <default_password>password</default_password>
-    <allow_dual_log>true</allow_dual_log>
-  </ServerItem>
-  <ServerItem>
     <name>Ducktide</name>
     <description>cmoski's PK Server.. Ducking PKs!</description>
     <connect_string>ac.megaduck.com:9550</connect_string>
@@ -33,5 +22,15 @@
     <default_password>password</default_password>
     <allow_dual_log>true</allow_dual_log>
   </ServerItem>
-
+  <ServerItem>
+    <name>Pea's Test Server</name>
+    <description>Pea's Server, the latest and greatest! Your head will explode.</description>
+    <connect_string>75.63.120.231:9050</connect_string>
+    <enable_login>true</enable_login>
+    <custom_credentials>false</custom_credentials>
+    <default_rodat>true</default_rodat>
+    <default_username>username</default_username>
+    <default_password>password</default_password>
+    <allow_dual_log>true</allow_dual_log>
+  </ServerItem>
 </ArrayOfServerItem>
